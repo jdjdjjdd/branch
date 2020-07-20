@@ -5,6 +5,7 @@ from config.Config import Config
 
 cf = Config()
 #加点备注测试下
+#你是大傻逼
 
 class AppLogin():
     def login(self, phone=None,TenantType=2):
