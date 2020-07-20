@@ -4,6 +4,7 @@ from common.login.login_basic import app_login, body_a
 from config.Config import Config
 
 cf = Config()
+#加点备注测试下
 
 class AppLogin():
     def login(self, phone=None,TenantType=2):
